@@ -124,3 +124,11 @@ h4 {
     transform: translate(-50%, -50%) rotate(-120deg);
   }
 } 
+
+#replay{
+  background-color: #3498db;
+  border-radius: 3px;
+  border: none;
+  color: aliceblue;
+  padding: 5px;
+}
