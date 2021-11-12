@@ -131,4 +131,8 @@ h4 {
   border: none;
   color: aliceblue;
   padding: 5px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+  transition: all 0.3s;
 }
