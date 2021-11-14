@@ -7,13 +7,13 @@
 body {
   font-family: 'Roboto', sans-serif;
   margin: 0;
-  height: 100vh;
+  height: 95vh;
   overflow: hidden;
 }
 
 h4 {
   font-size: 20px;
-  margin: 5px;
+  margin: 10px;
   text-transform: uppercase;
 }
 
@@ -69,17 +69,17 @@ h4 {
 
 .nums {
   color: #3498db;
-  font-size: 50px;
+  font-size: 45px;
   position: relative;
   overflow: hidden;
   width: 250px;
-  height: 50px;
+  height: 55px;
 }
 
 .nums span {
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 40%;
   transform: translate(-50%, -50%) rotate(120deg);
   transform-origin: bottom center;
 }
@@ -127,10 +127,10 @@ h4 {
 
 #replay{
   background-color: #3498db;
-  border-radius: 3px;
+  border-radius: 4px;
   border: none;
   color: aliceblue;
-  padding: 5px;
+  padding: 10px;
   text-align: center;
   display: inline-block;
   cursor: pointer;
